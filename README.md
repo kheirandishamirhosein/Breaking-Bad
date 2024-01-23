@@ -9,17 +9,16 @@ This site is https://www.breakingbadapi.com. And for more details, you can visit
 ---------------
 I used the following topics to make it :
 1. data class and classes , ...
-2. Json
-3. Material Design
-4. recyclerview
-5. fragments 
-6. navigation fragment
-7. Bottom Navigation Bar and menu
-8. ViewModel and LiveData (MVVM)
-9. *** Croatian kotlin ***
-10. Moshi
-11. retrofit
-12. OkHttpClient
-13. request get api
-14. use Query
-15. Coil
+2. Material Design
+3. recyclerview
+4. fragments 
+5. navigation fragment
+6. Bottom Navigation Bar and menu
+7. ViewModel and LiveData (MVVM)
+8. *** Croatian kotlin ***
+9. Moshi
+10. retrofit
+11. OkHttpClient
+12. request get api
+13. use Query
+14. Coil
